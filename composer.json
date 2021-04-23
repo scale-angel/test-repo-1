@@ -1,0 +1,5 @@
+{
+    "require": {
+        "drupal/drupal": "9.0.0"
+    }
+}
